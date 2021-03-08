@@ -1,2 +1,2 @@
 # Carfeatures-MSRP
-Eda and model on Carfetures and predicting MSRP
+Eda and model building on Car fetures and predicting MSRP.
